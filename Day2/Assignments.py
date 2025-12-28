@@ -1,4 +1,5 @@
 #1.A Python program that defines three variables: name, age, and city
+age: int
 name,age,city= "Aanya", 10, ("Hyderabad")
 print(name,age,city)
 
