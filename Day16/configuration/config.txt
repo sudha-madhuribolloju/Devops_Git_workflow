@@ -1,0 +1,11 @@
+1.Define Devops?
+A:DevOps is a software development approach and cultural philosophy that brings software
+development (Dev) and IT operations (Ops) together to work collaboratively throughout the
+entire software lifecycle — from planning and coding to testing, deployment and maintenance.
+Its aim is to deliver applications and services faster, more reliably, and with higher quality
+than traditional siloed methods.
+2. Define AWS?
+A: AWS (Amazon Web Services) is a comprehensive cloud computing platform provided by Amazon
+that delivers a wide range of on-demand services over the Internet — including computing power,
+storage, databases, networking, analytics, machine learning, and more — on a pay-as-you-go
+basis.
