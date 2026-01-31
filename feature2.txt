@@ -1,0 +1,7 @@
+"This is sample file in feature 2 branch"
+<<<<<<< HEAD
+"This is second line"
+=======
+"this is second sample file"
+"this is third sample file"
+>>>>>>> feature2
