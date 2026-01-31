@@ -1,1 +1,2 @@
 "This is a sample file in dev branch"
+"This is second commit"
