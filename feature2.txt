@@ -1,1 +1,2 @@
 "This is sample file in feature 2 branch"
+"This is second line"
