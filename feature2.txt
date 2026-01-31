@@ -1,1 +1,3 @@
 "This is sample file in feature 2 branch"
+"this is second sample file"
+"this is third sample file"
